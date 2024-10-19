@@ -1,0 +1,67 @@
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 10:51:47,349- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 7- com.slf4j.service.SelectTest- start of try block- 2024-10-02 10:51:47,356- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+INFO- main- 925- com.slf4j.service.SelectTest- JDBC driver class is loaded- 2024-10-02 10:51:48,274- com.slf4j.service.SelectTest.main(SelectTest.java:27)- 
+INFO- main- 2655- com.slf4j.service.SelectTest- Connection is established- 2024-10-02 10:51:50,004- com.slf4j.service.SelectTest.main(SelectTest.java:31)- 
+INFO- main- 3123- com.slf4j.service.SelectTest- PreparedStatement object is created- 2024-10-02 10:51:50,472- com.slf4j.service.SelectTest.main(SelectTest.java:35)- 
+INFO- main- 3355- com.slf4j.service.SelectTest- JDBC Resultset object is created- 2024-10-02 10:51:50,704- com.slf4j.service.SelectTest.main(SelectTest.java:39)- 
+INFO- main- 3363- com.slf4j.service.SelectTest- JDBC Resultset object processed- 2024-10-02 10:51:50,712- com.slf4j.service.SelectTest.main(SelectTest.java:47)- 
+DEBUG- main- 3363- com.slf4j.service.SelectTest- end of try block- 2024-10-02 10:51:50,712- com.slf4j.service.SelectTest.main(SelectTest.java:52)- 
+DEBUG- main- 3365- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 10:51:50,714- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 3366- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 10:51:50,715- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+INFO- main- 3366- com.slf4j.service.SelectTest- PreparedStatement object is closed- 2024-10-02 10:51:50,715- com.slf4j.service.SelectTest.main(SelectTest.java:80)- 
+INFO- main- 3371- com.slf4j.service.SelectTest- Connection object is closed- 2024-10-02 10:51:50,720- com.slf4j.service.SelectTest.main(SelectTest.java:90)- 
+DEBUG- main- 3371- com.slf4j.service.SelectTest- end of the finally block- 2024-10-02 10:51:50,720- com.slf4j.service.SelectTest.main(SelectTest.java:96)- 
+DEBUG- main- 3372- com.slf4j.service.SelectTest- end of main method- 2024-10-02 10:51:50,721- com.slf4j.service.SelectTest.main(SelectTest.java:98)- 
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 10:52:38,755- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 8- com.slf4j.service.SelectTest- start of try block- 2024-10-02 10:52:38,763- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+ERROR- main- 9- com.slf4j.service.SelectTest- Problem in Loading JDBC driver class- 2024-10-02 10:52:38,764- com.slf4j.service.SelectTest.main(SelectTest.java:59)- 
+DEBUG- main- 12- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 10:52:38,767- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 12- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 10:52:38,767- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 10:53:49,904- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 8- com.slf4j.service.SelectTest- start of try block- 2024-10-02 10:53:49,912- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+INFO- main- 784- com.slf4j.service.SelectTest- JDBC driver class is loaded- 2024-10-02 10:53:50,688- com.slf4j.service.SelectTest.main(SelectTest.java:27)- 
+INFO- main- 1828- com.slf4j.service.SelectTest- Connection is established- 2024-10-02 10:53:51,732- com.slf4j.service.SelectTest.main(SelectTest.java:31)- 
+INFO- main- 1968- com.slf4j.service.SelectTest- PreparedStatement object is created- 2024-10-02 10:53:51,872- com.slf4j.service.SelectTest.main(SelectTest.java:35)- 
+INFO- main- 2060- com.slf4j.service.SelectTest- JDBC Resultset object is created- 2024-10-02 10:53:51,964- com.slf4j.service.SelectTest.main(SelectTest.java:39)- 
+INFO- main- 2063- com.slf4j.service.SelectTest- JDBC Resultset object processed- 2024-10-02 10:53:51,967- com.slf4j.service.SelectTest.main(SelectTest.java:47)- 
+DEBUG- main- 2063- com.slf4j.service.SelectTest- end of try block- 2024-10-02 10:53:51,967- com.slf4j.service.SelectTest.main(SelectTest.java:52)- 
+DEBUG- main- 2064- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 10:53:51,968- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 2064- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 10:53:51,968- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+INFO- main- 2065- com.slf4j.service.SelectTest- PreparedStatement object is closed- 2024-10-02 10:53:51,969- com.slf4j.service.SelectTest.main(SelectTest.java:80)- 
+INFO- main- 2066- com.slf4j.service.SelectTest- Connection object is closed- 2024-10-02 10:53:51,970- com.slf4j.service.SelectTest.main(SelectTest.java:90)- 
+DEBUG- main- 2066- com.slf4j.service.SelectTest- end of the finally block- 2024-10-02 10:53:51,970- com.slf4j.service.SelectTest.main(SelectTest.java:96)- 
+DEBUG- main- 2066- com.slf4j.service.SelectTest- end of main method- 2024-10-02 10:53:51,970- com.slf4j.service.SelectTest.main(SelectTest.java:98)- 
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 10:58:28,459- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 3- com.slf4j.service.SelectTest- start of try block- 2024-10-02 10:58:28,462- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+INFO- main- 355- com.slf4j.service.SelectTest- JDBC driver class is loaded- 2024-10-02 10:58:28,814- com.slf4j.service.SelectTest.main(SelectTest.java:27)- 
+ERROR- main- 611- com.slf4j.service.SelectTest- DB Problem :IO Error: The Network Adapter could not establish the connection- 2024-10-02 10:58:29,070- com.slf4j.service.SelectTest.main(SelectTest.java:55)- 
+DEBUG- main- 614- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 10:58:29,073- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 614- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 10:58:29,073- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 10:58:49,561- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 2- com.slf4j.service.SelectTest- start of try block- 2024-10-02 10:58:49,563- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+INFO- main- 341- com.slf4j.service.SelectTest- JDBC driver class is loaded- 2024-10-02 10:58:49,902- com.slf4j.service.SelectTest.main(SelectTest.java:27)- 
+INFO- main- 873- com.slf4j.service.SelectTest- Connection is established- 2024-10-02 10:58:50,434- com.slf4j.service.SelectTest.main(SelectTest.java:31)- 
+INFO- main- 1011- com.slf4j.service.SelectTest- PreparedStatement object is created- 2024-10-02 10:58:50,572- com.slf4j.service.SelectTest.main(SelectTest.java:35)- 
+INFO- main- 1106- com.slf4j.service.SelectTest- JDBC Resultset object is created- 2024-10-02 10:58:50,667- com.slf4j.service.SelectTest.main(SelectTest.java:39)- 
+INFO- main- 1108- com.slf4j.service.SelectTest- JDBC Resultset object processed- 2024-10-02 10:58:50,669- com.slf4j.service.SelectTest.main(SelectTest.java:47)- 
+DEBUG- main- 1108- com.slf4j.service.SelectTest- end of try block- 2024-10-02 10:58:50,669- com.slf4j.service.SelectTest.main(SelectTest.java:52)- 
+DEBUG- main- 1109- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 10:58:50,670- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 1109- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 10:58:50,670- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+INFO- main- 1109- com.slf4j.service.SelectTest- PreparedStatement object is closed- 2024-10-02 10:58:50,670- com.slf4j.service.SelectTest.main(SelectTest.java:80)- 
+INFO- main- 1110- com.slf4j.service.SelectTest- Connection object is closed- 2024-10-02 10:58:50,671- com.slf4j.service.SelectTest.main(SelectTest.java:90)- 
+DEBUG- main- 1111- com.slf4j.service.SelectTest- end of the finally block- 2024-10-02 10:58:50,672- com.slf4j.service.SelectTest.main(SelectTest.java:96)- 
+DEBUG- main- 1111- com.slf4j.service.SelectTest- end of main method- 2024-10-02 10:58:50,672- com.slf4j.service.SelectTest.main(SelectTest.java:98)- 
+DEBUG- main- 0- com.slf4j.service.SelectTest- start of main method- 2024-10-02 11:00:34,665- com.slf4j.service.SelectTest.main(SelectTest.java:19)- 
+DEBUG- main- 3- com.slf4j.service.SelectTest- start of try block- 2024-10-02 11:00:34,668- com.slf4j.service.SelectTest.main(SelectTest.java:24)- 
+INFO- main- 332- com.slf4j.service.SelectTest- JDBC driver class is loaded- 2024-10-02 11:00:34,997- com.slf4j.service.SelectTest.main(SelectTest.java:27)- 
+INFO- main- 976- com.slf4j.service.SelectTest- Connection is established- 2024-10-02 11:00:35,641- com.slf4j.service.SelectTest.main(SelectTest.java:31)- 
+INFO- main- 1114- com.slf4j.service.SelectTest- PreparedStatement object is created- 2024-10-02 11:00:35,779- com.slf4j.service.SelectTest.main(SelectTest.java:35)- 
+INFO- main- 1198- com.slf4j.service.SelectTest- JDBC Resultset object is created- 2024-10-02 11:00:35,863- com.slf4j.service.SelectTest.main(SelectTest.java:39)- 
+INFO- main- 1200- com.slf4j.service.SelectTest- JDBC Resultset object processed- 2024-10-02 11:00:35,865- com.slf4j.service.SelectTest.main(SelectTest.java:47)- 
+DEBUG- main- 1200- com.slf4j.service.SelectTest- end of try block- 2024-10-02 11:00:35,865- com.slf4j.service.SelectTest.main(SelectTest.java:52)- 
+DEBUG- main- 1201- com.slf4j.service.SelectTest- start of finally block- 2024-10-02 11:00:35,866- com.slf4j.service.SelectTest.main(SelectTest.java:68)- 
+INFO- main- 1201- com.slf4j.service.SelectTest- close of Resultset object- 2024-10-02 11:00:35,866- com.slf4j.service.SelectTest.main(SelectTest.java:72)- 
+INFO- main- 1201- com.slf4j.service.SelectTest- PreparedStatement object is closed- 2024-10-02 11:00:35,866- com.slf4j.service.SelectTest.main(SelectTest.java:80)- 
+INFO- main- 1203- com.slf4j.service.SelectTest- Connection object is closed- 2024-10-02 11:00:35,868- com.slf4j.service.SelectTest.main(SelectTest.java:90)- 
+DEBUG- main- 1203- com.slf4j.service.SelectTest- end of the finally block- 2024-10-02 11:00:35,868- com.slf4j.service.SelectTest.main(SelectTest.java:96)- 
+DEBUG- main- 1204- com.slf4j.service.SelectTest- end of main method- 2024-10-02 11:00:35,869- com.slf4j.service.SelectTest.main(SelectTest.java:98)- 

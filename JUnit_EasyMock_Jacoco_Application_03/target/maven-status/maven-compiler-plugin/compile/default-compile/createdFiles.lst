@@ -1,0 +1,5 @@
+com\junit\dao\ContactDao.class
+com\junit\service\ContactService.class
+com\junit\entity\Contact.class
+com\junit\service\ContactServiceImpl.class
+com\junit\exception\NoDataFoundException.class
